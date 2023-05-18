@@ -1,0 +1,15 @@
+{
+  "name": "chess_game",
+  "version": "1.0.0",
+  "description": "Simple chess game module using chess.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratibhanu Jarngal",
+  "license": "ISC",
+  "dependencies": {
+    "chess.js": "^1.0.0-beta.6",
+    "express": "^4.18.2"
+  }
+}
